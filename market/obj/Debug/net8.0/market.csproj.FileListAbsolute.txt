@@ -1,0 +1,15 @@
+/Users/shaodw/Desktop/RiderProjects/market/market/bin/Debug/net8.0/market
+/Users/shaodw/Desktop/RiderProjects/market/market/bin/Debug/net8.0/market.deps.json
+/Users/shaodw/Desktop/RiderProjects/market/market/bin/Debug/net8.0/market.runtimeconfig.json
+/Users/shaodw/Desktop/RiderProjects/market/market/bin/Debug/net8.0/market.dll
+/Users/shaodw/Desktop/RiderProjects/market/market/bin/Debug/net8.0/market.pdb
+/Users/shaodw/Desktop/RiderProjects/market/market/obj/Debug/net8.0/market.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shaodw/Desktop/RiderProjects/market/market/obj/Debug/net8.0/market.AssemblyInfoInputs.cache
+/Users/shaodw/Desktop/RiderProjects/market/market/obj/Debug/net8.0/market.AssemblyInfo.cs
+/Users/shaodw/Desktop/RiderProjects/market/market/obj/Debug/net8.0/market.csproj.CoreCompileInputs.cache
+/Users/shaodw/Desktop/RiderProjects/market/market/obj/Debug/net8.0/market.dll
+/Users/shaodw/Desktop/RiderProjects/market/market/obj/Debug/net8.0/refint/market.dll
+/Users/shaodw/Desktop/RiderProjects/market/market/obj/Debug/net8.0/market.pdb
+/Users/shaodw/Desktop/RiderProjects/market/market/obj/Debug/net8.0/market.genruntimeconfig.cache
+/Users/shaodw/Desktop/RiderProjects/market/market/obj/Debug/net8.0/ref/market.dll
+/Users/shaodw/Desktop/RiderProjects/market/market/obj/Debug/net8.0/market.sourcelink.json
